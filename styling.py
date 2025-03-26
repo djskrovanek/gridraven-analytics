@@ -67,7 +67,7 @@ GRAD = [
 
 
 sns.set_theme(
-    font="Arial Narrow",
+    font="Arial",
     rc={
         "axes.axisbelow": False,
         "axes.edgecolor": "lightgrey",
